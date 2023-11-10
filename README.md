@@ -1,18 +1,15 @@
-# Portfolio
-Portfolio repository
+# 💫 About Me:
+🕹️ Me gusta ser consistente en lo que hago.<br>📜 Soy muy detallista y perfeccionista.<br>🎵🎼 Me gusta la música.<br>
 
-# Hola, soy Ángel
 
-Soy un estudiante de Ingeniería en Computación con un interés particular en la ciberseguridad y la inteligencia artificial. Actualmente estoy aprendiendo los lenguajes de programación C++ y Python.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AngelSH10004 &theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AngelSH10004 &theme=omni&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSH10004 &theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Mis intereses
+---
+[![](https://visitcount.itsvg.in/api?id=AngelSH10004 &icon=2&color=0)](https://visitcount.itsvg.in)
 
-- Ciberseguridad
-- Inteligencia Artificial
-- C++
-- Python
-
-## Acerca de mí
-
-Soy una persona constante en lo que hago y muy perfeccionista en lo que me gusta hacer. En mis tiempos libres, estoy en constante aprendizaje sobre el mundo digital.
-[Ver mis proyectos](proyectos.md)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
