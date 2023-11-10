@@ -1,5 +1,14 @@
+
 # 💫 About Me:
-🕹️ Me gusta ser consistente en lo que hago.<br>📜 Soy muy detallista y perfeccionista.<br>🎵🎼 Me gusta la música.<br>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="500" alt="GIF" src="https://livewallpaperpc.com/file/Matrix-Hacker.gif">
+</a>
+
+- 🕹️ Me gusta ser consistente en lo que hago.<br>
+- 📜 Soy muy detallista y perfeccionista.<br>
+- 🎵🎼 Me gusta la música.<br>
+- 👨‍💻 Estudio en la Univerdiad de Guadalajara.<br>
+- 🇲🇽 Soy de Mexico; Jalisco.<br>
 
 
 # 💻 Tech Stack:
